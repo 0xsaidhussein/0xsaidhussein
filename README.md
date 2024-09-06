@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm cyb4x</h1>
 <h3 align="center">A passionate junior penetration tester with a deep interest in red teaming, focused on evolving from beginner to professional. Skilled in identifying vulnerabilities and exploiting weaknesses in web applications, networks, and systems. Experienced in PHP, Laravel, and Linux system administration, with a growing expertise in offensive security techniques.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb4x&label=Profile%20views&color=0e75b6&style=flat" alt="cyb4x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyb4x" alt="cyb4x" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cyb4x" target="blank"><img src="https://img.shields.io/twitter/follow/cyb4x?logo=twitter&style=for-the-badge" alt="cyb4x" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cyb4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyb4x" height="30" width="40" /></a>
@@ -17,8 +11,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cyb4x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyb4x" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyb4x&show_icons=true&locale=en" alt="cyb4x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyb4x&" alt="cyb4x" /></p>
 
