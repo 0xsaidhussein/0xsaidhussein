@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cyb4x</h1>
-<h4 align="center">A passionate junior penetration tester with a deep interest in red teaming, focused on evolving from beginner to professional. Skilled in identifying vulnerabilities and exploiting weaknesses in web applications, networks, and systems. Experienced in PHP, Laravel, and Linux system administration, with a growing expertise in offensive security techniques.</h4>
+<h4 align="center"> penetration tester with a deep interest in red teaming, focused on evolving from beginner to professional. Skilled in identifying vulnerabilities and exploiting weaknesses in web applications, networks, and systems. Experienced in PHP, Laravel, and Linux system administration, with a growing expertise in offensive security techniques.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
