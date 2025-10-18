@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/70/58/1f/70581f993fd1a61fdf1aa3916419d18f.gif" width="1000">
+<div class="tenor-gif-embed" data-postid="15584825820421463488" data-share-method="host" data-aspect-ratio="0.795181" data-width="100%"><a href="https://tenor.com/view/moggus-haruhi-mogguus-tutorial-gif-15584825820421463488">Moggus Haruhi GIF</a>from <a href="https://tenor.com/search/moggus-gifs">Moggus GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h4 align="center"> Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications, networks, and systems. Background in PHP, Laravel, and Linux system administration, with a growing expertise in offensive Security.</h4>
 
