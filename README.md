@@ -11,7 +11,7 @@
   <a href="https://github.com/0xsaidhussein" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/0xsaidhussein](https://www.linkedin.com/in/said-hussein-53ba8127b/" target="_blank">
+  <a href="https://www.linkedin.com/in/said-hussein-53ba8127b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" />
   </a>
 </p>
