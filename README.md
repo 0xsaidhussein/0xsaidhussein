@@ -1,13 +1,25 @@
-<div class="tenor-gif-embed" data-postid="15584825820421463488" data-share-method="host" data-aspect-ratio="0.795181" data-width="100%"><a href="https://tenor.com/view/moggus-haruhi-mogguus-tutorial-gif-15584825820421463488">Moggus Haruhi GIF</a>from <a href="https://tenor.com/search/moggus-gifs">Moggus GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![moggus](https://c.tenor.com/15584825820421463488.gif)
+
 <h1 align="center">Hi 👋, I'm Said</h1>
-<h4 align="center"> Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications, networks, and systems. Background in PHP, Laravel, and Linux system administration, with a growing expertise in offensive Security.</h4>
+<h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications and infrastructure.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xsaidhussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsaidhussein" height="30" width="40" /></a>
+  <a href="https://twitter.com/0xsaidhussein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" />
+  </a>
+  <a href="https://github.com/0xsaidhussein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/0xsaidhussein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" />
+  </a>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/0xsaidhussein"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyb4x" /></a></p><br><br>
-
-
+<p>
+  <a href="https://www.buymeacoffee.com/0xsaidhussein">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+<br><br>
