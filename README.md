@@ -1,4 +1,4 @@
-![moggus](https://c.tenor.com/15584825820421463488.gif)
+<img src="222829.gif" width="1000">
 
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications and infrastructure.</h4>
