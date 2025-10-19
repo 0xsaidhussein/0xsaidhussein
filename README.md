@@ -4,7 +4,6 @@
 <h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications and infrastructure.</h4>
 
 [![0xsaidhussein GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsaidhussein&theme=dark)](https://github.com/0xsaidhussein/github-readme-stats)
-## Programming Languages
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsaidhussein&layout=compact&theme=tokyonight"/>
 
 <h3 align="left">Connect with me:</h3>
