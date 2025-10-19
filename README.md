@@ -1,4 +1,4 @@
-<img src="222829.gif" width="1000" width="600">> 
+<img src="222829.gif" width="1000" width="400">> 
 
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications and infrastructure.</h4>
@@ -16,10 +16,10 @@
   </a>
 </p>
 
-[![0xsaidhussein GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsaidhussein&theme=dark)](https://github.com/0xsaidhussein/github-readme-stats)
 
 ## Programming Languages
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsaidhussein&layout=compact&theme=tokyonight"/>
+[![0xsaidhussein GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsaidhussein&theme=dark)](https://github.com/0xsaidhussein/github-readme-stats)
 
 <h3 align="left">Support:</h3>
 <p>
