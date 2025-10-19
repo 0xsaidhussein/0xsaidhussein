@@ -16,6 +16,11 @@
   </a>
 </p>
 
+[![0xsaidhussein GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsaidhussein&theme=dark)](https://github.com/0xsaidhussein/github-readme-stats)
+
+## Programming Languages
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsaidhussein&layout=compact&theme=tokyonight"/>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/0xsaidhussein">
