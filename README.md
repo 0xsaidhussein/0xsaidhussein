@@ -1,7 +1,7 @@
 <img src="222829.gif" width="1000" width="400">> 
 
 <h1 align="center">Hi 👋, I'm Said</h1>
-<h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming. Skilled in identifying vulnerabilities and exploiting weaknesses in applications and infrastructure.</h4>
+<h4 align="center">Offensive Security Enthusiast with a deep interest in Penetration Testing, Application Security and Red teaming.</h4>
 
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsaidhussein&layout=compact&theme=tokyonight"/>
 
